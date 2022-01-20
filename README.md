@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm Dimitar (Dim) 👋
+
+🔧 Currently working mostly with JS - Angular, React, Node.js
+🔭 Junior Software Engineer at Resolute Software
+🎓 University of Edinburgh, BEng Software Engineering
+💵 Three years of exp as a Prop Equity Trader
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimVashkov&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **DimVashkov/DimVashkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
