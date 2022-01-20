@@ -1,25 +1,13 @@
 ### Hi, I'm Dimitar (Dim) 👋
+ ![](https://komarev.com/ghpvc/?username=DimVashkov)
 
-🔧 Currently working mostly with JS - Angular, React, Node.js
-🔭 Junior Software Engineer at Resolute Software
-🎓 University of Edinburgh, BEng Software Engineering
-💵 Three years of exp as a Prop Equity Trader
+* 🔧 Currently working mostly with JS - Angular, React, Node.js
+* 🔭 Junior Software Engineer at Resolute Software
+* 🎓 University of Edinburgh, BEng Software Engineering
+* 💵 Three years of exp as a Prop Equity Trader
+
+#### Recently went back to IT
+![Mood](https://media.giphy.com/media/pO4UHglOY2vII/giphy.gif)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimVashkov&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-<!--
-**DimVashkov/DimVashkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
