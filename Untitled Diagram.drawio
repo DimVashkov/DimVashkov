@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T14:01:33.803Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.4.4" etag="UqYbodb8LZjKTwMtbC9k" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-20T14:23:16.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="lzdunhRXkcy9n0IAMhxF" version="24.4.4" type="github">
   <diagram name="Page-1" id="rI2kh3Gkg-3g-Ctt-gzb">
-    <mxGraphModel>
+    <mxGraphModel dx="1974" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mPE-RRajF-i85CnaDNLj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mPE-RRajF-i85CnaDNLj-1" target="mPE-RRajF-i85CnaDNLj-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mPE-RRajF-i85CnaDNLj-1" value="Request" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="238" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mPE-RRajF-i85CnaDNLj-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;2 Tables&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="130" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mPE-RRajF-i85CnaDNLj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mPE-RRajF-i85CnaDNLj-6" target="mPE-RRajF-i85CnaDNLj-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mPE-RRajF-i85CnaDNLj-6" value="Ops Table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mPE-RRajF-i85CnaDNLj-7" value="Maxar API" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mPE-RRajF-i85CnaDNLj-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-90" y="150" as="sourcePoint" />
+            <mxPoint x="-90" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mPE-RRajF-i85CnaDNLj-11" value="Latency" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="300" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mPE-RRajF-i85CnaDNLj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mPE-RRajF-i85CnaDNLj-12" target="mPE-RRajF-i85CnaDNLj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mPE-RRajF-i85CnaDNLj-12" value="Ops Web App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="258" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mPE-RRajF-i85CnaDNLj-13" value="Geo Internal Web app" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="318" width="170" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="mPE-RRajF-i85CnaDNLj-2" value="Geo Internal Table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mPE-RRajF-i85CnaDNLj-13">
+          <mxGeometry x="30" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mPE-RRajF-i85CnaDNLj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.655;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mPE-RRajF-i85CnaDNLj-6" target="mPE-RRajF-i85CnaDNLj-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mPE-RRajF-i85CnaDNLj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.575;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mPE-RRajF-i85CnaDNLj-13" target="mPE-RRajF-i85CnaDNLj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mPE-RRajF-i85CnaDNLj-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.108;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mPE-RRajF-i85CnaDNLj-7" target="mPE-RRajF-i85CnaDNLj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mPE-RRajF-i85CnaDNLj-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1. But then do we write to both Tables as well?&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;2. Data redundancy &amp;lt;-&amp;gt; Malformed data&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="535" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mPE-RRajF-i85CnaDNLj-21" value="Pros: No single point of failure, no need to rely only on Geo Internal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="648" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mPE-RRajF-i85CnaDNLj-22" value="Cons: Latency, Coupling between apps, complexity, data redundancy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="700" width="390" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
